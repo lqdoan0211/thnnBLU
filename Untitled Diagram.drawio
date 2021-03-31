@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T03:56:56.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="QPtRcMRJ-OsrjmyM0sFa" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T03:57:44.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nMKSB1p_gpxpNkPXuqu5" version="14.5.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1022" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,86 +8,86 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-5" value="START" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" width="50" height="50" as="geometry" />
+          <mxGeometry x="361" y="87" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-17" target="0EdgKEL4-VeEeaSCLXQi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-17" value="Chọn người dùng hoặc &lt;br&gt;nhóm cần chat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="301" y="157" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-19" target="0EdgKEL4-VeEeaSCLXQi-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-19" value="Gửi ID người dùng hoặc nhóm đã chọn đến Server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="321" y="247" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-21" target="0EdgKEL4-VeEeaSCLXQi-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-21" value="Server nhận ID và xử lý" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="321" y="337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-23" target="0EdgKEL4-VeEeaSCLXQi-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-23" target="0EdgKEL4-VeEeaSCLXQi-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="390" as="targetPoint" />
+            <mxPoint x="281" y="477" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="390" />
-              <mxPoint x="240" y="100" />
+              <mxPoint x="241" y="477" />
+              <mxPoint x="241" y="187" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-23" value="Kiểm tra ID" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="341" y="437" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-25" target="0EdgKEL4-VeEeaSCLXQi-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="510" />
-              <mxPoint x="480" y="110" />
+              <mxPoint x="481" y="597" />
+              <mxPoint x="481" y="197" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-25" value="Gửi lại kết quả cho client" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="321" y="567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-30" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="391" y="537" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-34" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="271" y="457" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-37" target="0EdgKEL4-VeEeaSCLXQi-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-37" value="Nhập nội dung chat" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="80" width="160" height="60" as="geometry" />
+          <mxGeometry x="511" y="167" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-39" target="0EdgKEL4-VeEeaSCLXQi-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-39" value="Gửi nội dung chat đến server" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="262" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-41" target="0EdgKEL4-VeEeaSCLXQi-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-41" value="Server nhận nội dung chat và xử lý" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="362" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-45" value="Server gửi nội dung chat đến client người dùng chat" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="447" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-49" value="END" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="565" y="450" width="50" height="50" as="geometry" />
+          <mxGeometry x="566" y="537" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0EdgKEL4-VeEeaSCLXQi-50" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0EdgKEL4-VeEeaSCLXQi-45" target="0EdgKEL4-VeEeaSCLXQi-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="450" as="sourcePoint" />
-            <mxPoint x="440" y="400" as="targetPoint" />
+            <mxPoint x="391" y="537" as="sourcePoint" />
+            <mxPoint x="441" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
